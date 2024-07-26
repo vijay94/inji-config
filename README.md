@@ -10,3 +10,4 @@ This Repository contains configurations for Inji Stack, These are the split up o
 ### Mimoto
 - [mimoto-default.properties](mimoto-default.properties) - Default Configuration for Mimoto App is mentioned here
 - [mimoto-issuers-config.json](mimoto-issuers-config.json) - Configuration of All Supported Credential Issuers is mentioned here
+
