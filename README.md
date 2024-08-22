@@ -28,4 +28,3 @@ Each plugin-usecase property file will contain the below 3 sections
 1. Properties to enable the plugin
 2. Properties specific to plugins
 3. Properties that is available in the certify-default.properties but needs to be overriden specific to the usecase
-
